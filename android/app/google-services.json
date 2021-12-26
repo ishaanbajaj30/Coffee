@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "865743819302",
+    "firebase_url": "https://coffee-ead91.firebaseio.com",
+    "project_id": "coffee-ead91",
+    "storage_bucket": "coffee-ead91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865743819302:android:afab16a11bc7283e68cce7",
+        "android_client_info": {
+          "package_name": "com.ishaan.coffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865743819302-8qfhj0jr1ujc00i8te4j5ccsdt096k8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfCdMxOCLZZpJ_abEWW4dwL8nc2bybkq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865743819302-8qfhj0jr1ujc00i8te4j5ccsdt096k8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
